@@ -98,7 +98,7 @@ hr {
 
 .icon {
   display: inline-block;
-  background: url(D:Coding/Resume/images/linkedin.png) no-repeat;
+  background: url(/images/linkedin.png) no-repeat;
   height: 32px;
   width: 32px;
 }
@@ -108,11 +108,11 @@ hr {
 }
 
 .icon.icon-email {
-  background: url(D:Coding/Resume/images/email.png) no-repeat;
+  background: url(/images/email.png) no-repeat;
 }
 
 .jumbotron {
-  background: no-repeat center right fixed url(D:Coding/Resume/images/D2Tc.gif);
+  background: no-repeat center right fixed url(/images/D2Tc.gif);
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -121,8 +121,8 @@ hr {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='D:Coding/Resume/images/D2Tc.gif', sizingMethod='scale')";
-  filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='D:Coding/Resume/images/D2Tc.gif', sizingMethod='scale');
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/D2Tc.gif', sizingMethod='scale')";
+  filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='/images/D2Tc.gif', sizingMethod='scale');
   margin-bottom: 0px;
   padding: 0px;
 }
